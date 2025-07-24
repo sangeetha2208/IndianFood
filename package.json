@@ -1,0 +1,14 @@
+{
+      "name": "indian-recipe-exchange",
+      "version": "1.0.0",
+      "description": "Streamlit app for Indian Recipe Exchange",
+      "main": "streamlit_app.py",
+      "dependencies": {
+        "streamlit": "^1.29.0"
+      },
+      "devDependencies": {},
+      "scripts": {
+        "start": "streamlit run streamlit_app.py",
+        "dev": "streamlit run streamlit_app.py"
+      }
+    }
